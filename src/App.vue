@@ -1,7 +1,7 @@
 <template>
   <MainTitle title="Space X" />
   <Section title="Next launches" content="NextLaunch" />
-  <Section title="Last launches" content="LatestLaunches" />
+  
 
 </template>
 
